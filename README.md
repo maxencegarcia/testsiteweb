@@ -1,98 +1,95 @@
-# Titre sujet   
+# Sujet du projet : ASTEK
 
-## ASTEK    
+## 🌐 Lien du dépôt
 
-[astek](https://github.com/maxencegarcia/astek)
+🔗 [Astek - Dépôt GitHub](https://github.com/maxencegarcia/astek)
 
-## Membres du groupe :
+---
 
-- GARCIA Maxence (référent)](maxence.garcia@edu.univ-fcomte.fr)  
-- DUCRET Elouhan (elouhan.ducret@edu.univ-fcomte.fr)   
-- ILMAN Nathan (nathan.ilman@edu.univ-fcomte.fr)   
+## 👥 Membres du groupe
 
+- **GARCIA Maxence** (référent) — [maxence.garcia@edu.univ-fcomte.fr](mailto:maxence.garcia@edu.univ-fcomte.fr)  
+- **DUCRET Elouhan** — [elouhan.ducret@edu.univ-fcomte.fr](mailto:elouhan.ducret@edu.univ-fcomte.fr)  
+- **ILMAN Nathan** — [nathan.ilman@edu.univ-fcomte.fr](mailto:nathan.ilman@edu.univ-fcomte.fr)
 
-## Présentation 
+---
 
-Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Astek et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique.
+## 🏗️ Présentation
 
-## Choix de conception  
+Ce dépôt correspond à un site web créé en **HTML / CSS / JavaScript** dans le cadre de la **SAÉ 05-06** à l’IUT de Belfort-Montbéliard.  
+Le site présente l’entreprise **Astek**, son activité, son organisation et son historique, dans le but de servir de vitrine professionnelle.
 
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de plativaloire (menu et contact) (disponible ici https://groupe-plastivaloire.com/)    
+---
 
+## 🎨 Choix de conception
 
-## Développement Site Web et Validation des pages
+Pour la conception du site, nous nous sommes inspirés du site officiel du **groupe Plastivaloire** (notamment pour le menu et la page contact).  
+🔗 [Site de Plastivaloire](https://groupe-plastivaloire.com/)
 
-### Page d'accueil
+---
 
-**Auteur : GARCIA Maxence**  
+## 💻 Développement du site web et validation des pages
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+### 🏠 Page d’accueil & index  
+**Auteur : GARCIA Maxence**
 
+![Capture de la page d'accueil](https://github.com/maxencegarcia/testsiteweb/blob/main/Capture%20d'écran%202025-10-13%20084051.png)  
+🔗 [Voir la page d'accueil](https://maxencegarcia.github.io/astek/home.html)
 
+---
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+### 🧾 Présentation générale  
+**Auteur : DUCRET Elouhan**
 
-ou 
+![Capture de la page Présentation](https://github.com/maxencegarcia/testsiteweb/blob/main/Capture%20d'écran%202025-10-13%20084741.png)  
+🔗 [Voir la page Présentation](https://maxencegarcia.github.io/astek/presentation.html)
 
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+---
 
+### 📞 Contact & Partenaires  
+**Auteur : GARCIA Maxence**
 
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](doc/capture_1_ecoconcept.png)
+![Capture de la page Contact](https://github.com/maxencegarcia/testsiteweb/blob/main/Capture%20d'écran%202025-10-13%20085340.png)  
+🔗 [Voir la page Contact](https://maxencegarcia.github.io/astek/contact.html)  
+🔗 [Voir la page Partenaires](https://maxencegarcia.github.io/astek/partenaire.html)
 
-ou 
+---
 
-<img src="doc/capture_1_ecoconcept.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
+## 🧩 Répartition du travail
 
-<!--  style="width=400px" ne fonctionne pas -->
+### 📅 Planification – Diagramme de Gantt
+- **GARCIA Maxence**
 
-### Présentation générale
+### 🔎 Recherches d’informations
+- **GARCIA Maxence**  
+- **DUCRET Elouhan**  
+- **ILMAN Nathan**
 
-**Auteur : DUCRET Elouhan**  
+### 💻 Développement du site
+- **GARCIA Maxence**
+  - Page d’accueil  
+  - Modèle de page (Navbar / Footer)  
+  - Page Contact  
+  - Gestion générale du CSS  
+  - Correction de bugs  
+  - Questionnaires 1, 2 et 3  
+  - Page Partenaires  
+- **DUCRET Elouhan**
+  - Page Présentation  
+  - Questionnaires 1, 2 et 3  
+- **ILMAN Nathan**
+  - Page Économie  
+  - Questionnaires 1 et 2  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+---
 
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
+## 👨‍💻 Contributeurs
 
-<br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+![Contributions des membres du projet](doc/livrable2_contributors.png)
 
-## Répartition du travail
+---
 
-### Planification - Diagramme de GANTT
+## 🚀 Présentation du projet
 
-- GARCIA Maxence
-
-### Recherches d'informations
-
-- GARCIA Maxence
-- Ducret Elouhan
-- ILMAN Nathan
-
-
-### Développement site
-
-- GARCIA Maxence
-  - Page d’accueil
-  - "Template" de page (Navbar/Footer)
-  - contact
-  - gestion général du CSS
-  - correction de bug
-  - questionnaire 1, 2 et 3
-  - page partenaire
-- DUCRET Elouhan
-  - Page Présentation
-  - questionnaire 1, 2 et 3
-- Ilman Nathan
-  - Page Économie
-  - questionnaire 1 et 2 
-
-## Contributeurs
-
-![capture d'écran de sur la contribution des membres du projet](doc/livrable2_contributors.png)
-
-
-## présentation du projet
-
-[npm-image]: https://github.com/maxencegarcia/astek/blob/main/asteklogo.png
-[npm-url]: https://maxencegarcia.github.io/astek/home.html
+![Logo Astek](https://github.com/maxencegarcia/astek/blob/main/asteklogo.png)  
+🔗 [Accéder au site](https://maxencegarcia.github.io/astek/home.html)
